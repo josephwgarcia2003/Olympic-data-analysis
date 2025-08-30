@@ -99,7 +99,3 @@ It was designed to demonstrate **end-to-end data analysis skills** — from clea
 The Olympics show both long-term dominance and changing trends. The USA has remained a consistent powerhouse in athlete production and medal points, while nations like the Soviet Union and East Germany once demonstrated unmatched efficiency. At the discipline level, certain countries are strongly tied to specific events, like Canada in Ice Hockey, France in Fencing, India in Field Hockey,showing how targeted investment in one sport can yield global recognition. Individual legends like Michael Phelps and Larisa Latynina also prove how much one athlete can shape a nation’s Olympic story. Ultimately, while medals concentrate among a few, the Games remain globally representative, offering nearly every nation moments of visibility and pride.
 
 This project shows how **data analysis can uncover both macro-level dominance and micro-level success stories**, and how structured storytelling turns raw data into actionable insights.
-
----
-
-## Project Structure
