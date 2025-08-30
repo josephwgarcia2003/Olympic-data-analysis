@@ -56,23 +56,47 @@ It was designed to demonstrate **end-to-end data analysis skills** — from clea
 - **Reproducibility:**  
   - Notebook structured with logical sections (Data Cleaning → EDA → Insights).  
   - Modular code cells for reusability.  
-  - Clear documentation for each transformation and plot.  
+  - Clear documentation for code and each transformation and plot.  
 
 ---
 
 ## Key Findings
-- **Country Dominance:** The U.S. and China win the most medals overall, but smaller countries (e.g., Jamaica in sprinting, Kenya in distance running) excel in niche sports.  
-- **Sport Specialization:** Some sports (e.g., table tennis, weightlifting) show *highly concentrated dominance* by one or two nations, while others (e.g., swimming, athletics) are broadly distributed.  
-- **Gender Balance:** Most sports now show balanced participation, though a few remain skewed.  
-- **Age Trends:** Younger athletes dominate gymnastics and swimming, while sports like equestrian and shooting feature significantly older medalists.  
+- **Athlete Production:**
+    - The USA leads with over 10,000 athletes produced, followed by Germany (≈7,500) and the United Kingdom (≈6,000).
+
+- **Olympic Participation:**
+    - The USA dominates with 21,321 Olympic entries, with France (14,247) and the UK (13,165) trailing behind.
+
+- **Medal Efficiency (weighted by events participated):**
+    - The Soviet Union (URS) had the highest efficiency, converting 42.9% of entries into medals.
+    - East Germany (GDR) followed at 37.1%, then the Unified Team (EUN) at 31.9%, and the USA at 28.1%.
+
+- **Total Medal Points (Gold=3, Silver=2, Bronze=1):**
+    - USA leads with 13,235 points, followed by the Soviet Union (5,356) and Germany (4,805).
+
+- **Finishing Place (2000–Present):**
+    - Based on average placement per year, USA consistently outperforms other top NOCs, followed by Germany, then France, and finally Great Britain (GBR).
+
+- **Discipline-Level Dominance:**
+    - USA dominates in Athletics (704 wins), Swimming (684), and Basketball (304).
+    - Canada leads Ice Hockey (251 wins).
+    - France excels in Fencing (189 wins).
+    - India dominates in Field Hockey (129 wins).
+    - Soviet Union historically led in Artistic Gymnastics (141 wins).
+
+- **US Discipline Wins:**
+    - The USA especially dominates in Athletics, Swimming, Basketball, Rowing, Shooting, Wrestling, and Boxing.
+    - It also maintains strong wins in team sports like Football, Softball, Rugby, Tennis, Golf, Snowboarding, and Beach Volleyball.
+
+- **Most Decorated Athletes by NOC (Gold Medals):**
+    - USA: Michael Phelps (23 golds)
+    - URS: Larisa Latynina (9 golds)
+    - Finland: Paavo Nurmi (9 golds)
 
 ---
 
 ## Final Insights
-- **Medal distribution is highly concentrated** — a few nations consistently dominate, reflecting resource and infrastructure advantages.  
-- **Specialization enables smaller countries to shine**, showing that national investment in one sport can yield global recognition.  
-- **Age and gender trends highlight inclusivity and diversity**, showing how different disciplines reward different strengths.  
-- **The Olympics remain globally representative**, as almost every nation finds opportunities for visibility, even without large medal counts.  
+The Olympics show both long-term dominance and changing trends. The USA has remained a consistent powerhouse in athlete production and medal points, while nations like the Soviet Union and East Germany once demonstrated unmatched efficiency. At the discipline level, certain countries are strongly tied to specific events, like Canada in Ice Hockey, France in Fencing, India in Field Hockey,showing how targeted investment in one sport can yield global recognition. Individual legends like Michael Phelps and Larisa Latynina also prove how much one athlete can shape a nation’s Olympic story. Ultimately, while medals concentrate among a few, the Games remain globally representative, offering nearly every nation moments of visibility and pride.
 
 This project shows how **data analysis can uncover both macro-level dominance and micro-level success stories**, and how structured storytelling turns raw data into actionable insights.
 
