@@ -7,6 +7,20 @@ It was designed to demonstrate **end-to-end data analysis skills** — from clea
 
 ---
 
+## Datasets
+
+This project uses two datasets: Athletes and Results.
+
+- **Cleaned Datasets (included in this repo):**
+  - [Athletes (cleaned sample)](Clean%20Data/sample_clean_athletes.csv)
+  - [Results (cleaned sample)](Clean%20Data/sample_clean_results.csv)
+  - [Full cleaned datasets (Google Drive)](https://drive.google.com/drive/folders/1IkSsgiEgxtFyeDU0_kNAHaJYM45i8aYf?usp=sharing)
+
+- **Raw Datasets (Google Drive only):**
+  - [Athletes and Results (raw)](https://drive.google.com/drive/folders/1IkSsgiEgxtFyeDU0_kNAHaJYM45i8aYf?usp=sharing)
+
+---
+
 ## Objectives
 - **Data Cleaning & Preparation:** Prepare structured datasets by cleaning and standardizing raw Olympic records.  
 - **Exploratory Data Analysis (EDA):** Explore performance trends across countries, disciplines, athletes, and time periods.  
@@ -99,17 +113,3 @@ It was designed to demonstrate **end-to-end data analysis skills** — from clea
 The Olympics show both long-term dominance and changing trends. The USA has remained a consistent powerhouse in athlete production and medal points, while nations like the Soviet Union and East Germany once demonstrated unmatched efficiency. At the discipline level, certain countries are strongly tied to specific events, like Canada in Ice Hockey, France in Fencing, India in Field Hockey,showing how targeted investment in one sport can yield global recognition. Individual legends like Michael Phelps and Larisa Latynina also prove how much one athlete can shape a nation’s Olympic story. Ultimately, while medals concentrate among a few, the Games remain globally representative, offering nearly every nation moments of visibility and pride.
 
 This project shows how **data analysis can uncover both macro-level dominance and micro-level success stories**, and how structured storytelling turns raw data into actionable insights.
-
----
-
-## Datasets
-
-This project uses two datasets: Athletes and Results.
-
-- **Cleaned Datasets (included in this repo):**
-  - [Athletes (cleaned sample)](Clean%20Data/sample_clean_athletes.csv)
-  - [Results (cleaned sample)](Clean%20Data/sample_clean_results.csv)
-  - [Full cleaned datasets (Google Drive)](https://drive.google.com/drive/folders/1IkSsgiEgxtFyeDU0_kNAHaJYM45i8aYf?usp=sharing)
-
-- **Raw Datasets (Google Drive only):**
-  - [Athletes and Results (raw)](https://drive.google.com/drive/folders/1IkSsgiEgxtFyeDU0_kNAHaJYM45i8aYf?usp=sharing)
