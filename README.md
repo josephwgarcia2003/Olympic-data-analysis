@@ -2,22 +2,22 @@
 Data cleaning, exploration, and visualization on comprehensive summer and winter Olympic athletes and their results between 1896–2022.
 
 ## Project Overview
-This project analyzes Olympic medal data to uncover **patterns in athlete demographics, performance, country dominance, participation, and sport specialization**.  
+This project analyzes Olympic data to uncover **patterns in athlete demographics, performance, country dominance, participation, and sport specialization**.  
 It was designed to demonstrate **end-to-end data analysis skills** — from cleaning messy data to generating actionable insights through visualization and storytelling.
 
 ---
 
 ## Datasets
+This data comes from [olympedia.org](https://www.olympedia.org/) and was web scraped with the Python Beautiful Soup library. This project uses two datasets: Athletes and Results, containing the raw biographical information on each athlete, and a row-by-row breakdown of each event athletes competed in and their results in that event. 
 
-This project uses two datasets: Athletes and Results.
+Due to file size limits, the **full raw and cleaned datasets** are hosted on Google Drive, and smaller **sample datasets** are included in this repo.
 
-- **Cleaned Datasets (included in this repo):**
+- **Cleaned Sample Datasets (included in this repo):**
   - [Athletes (cleaned sample)](Clean%20Data/sample_clean_athletes.csv)
   - [Results (cleaned sample)](Clean%20Data/sample_clean_results.csv)
-  - [Full cleaned datasets (Google Drive)](https://drive.google.com/drive/folders/1IkSsgiEgxtFyeDU0_kNAHaJYM45i8aYf?usp=sharing)
 
-- **Raw Datasets (Google Drive only):**
-  - [Athletes and Results (raw)](https://drive.google.com/drive/folders/1IkSsgiEgxtFyeDU0_kNAHaJYM45i8aYf?usp=sharing)
+- **Full Raw and Cleaned Datasets (Google Drive only):**
+  - [Athletes and Results](https://drive.google.com/drive/folders/1IkSsgiEgxtFyeDU0_kNAHaJYM45i8aYf?usp=sharing)
 
 ---
 
