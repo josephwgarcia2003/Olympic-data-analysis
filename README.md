@@ -1,5 +1,5 @@
 # Olympic Athletes and Results Analysis (Historical Data)
-Data cleaning, exploration, and visualization of Olympic athletes and results (1900–present yr)
+Data cleaning, exploration, and visualization on comprehensive summer and winter Olympic athletes and their results between 1896–2022.
 
 ## Project Overview
 This project analyzes Olympic medal data to uncover **patterns in athlete demographics, performance, country dominance, participation, and sport specialization**.  
